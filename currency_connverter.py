@@ -3,7 +3,7 @@ import requests
 
 def get_data():
     #define the API endpoint URL
-    url = "https://api.currencyapi.com/v3/latest?apikey=cur_live_55c7yegvf58scegJUotSTCUJAkTq5XHA0RBPyzeX"
+    url = "API url"
 
     #Make a GET request to the API endpoint
     response = requests.get(url) 
